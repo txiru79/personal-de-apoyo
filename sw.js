@@ -1,4 +1,4 @@
-const CACHE_NAME = "ope-ivap-apoyo-v8";
+const CACHE_NAME = "ope-ivap-apoyo-v41";
 const ASSETS = [
   "./",
   "./index.html",
